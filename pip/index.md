@@ -133,4 +133,4 @@ Read more about the visualization in the [full report](https://drive.google.com/
     TODO: Get the profiles grid back here ...
 </div>
 
-<List dir="/pip/profiles" fields={["title"]}  />
+<List dir="/pip/profiles" fields={["id"]}  />
